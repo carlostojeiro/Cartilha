@@ -5,7 +5,7 @@ Cartilha Segurança da Informação
 > **Projeto de Graduação - Segurança da Informação**
 > Fatec Ourinhos | Centro Paula Souza
 > **Autores:** Adriano Bernardes Lemes e Gustavo Borges de Jesus Machado
-> **Orientador:** Prof. Carlos Alexandre Carvalho Tojeiro
+> **Orientador:** Prof. Me. Carlos Alexandre Carvalho Tojeiro
 
 ---
 
